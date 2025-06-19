@@ -79,7 +79,7 @@ pip install -r requirements.txt
 | Inference Speed | 8.2ms/img |
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Language: Python
 
 Framework: Ultralytics YOLOv8
@@ -89,6 +89,8 @@ Libraries: OpenCV, Matplotlib, NumPy, PyTorch
 Platform: Google Colab / Local GPU
 
 Annotation Tool: CVAT / Roboflow
+
+## 📌 Future Improvements
 
 
 Deploy as a web app using Streamlit or Flask
