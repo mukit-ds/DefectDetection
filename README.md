@@ -45,7 +45,7 @@ The dataset contains images of industrial components with annotations for differ
 
 ## 🧠 Model Architecture
 
-We use **YOLOv8** (You Only Look Once - Version 8) from the Ultralytics framework:
+I use **YOLOv8** (You Only Look Once - Version 8) from the Ultralytics framework:
 
 - Base model: `YOLOv8s` (small, fast, and accurate)
 - Pretrained on: MS-COCO
